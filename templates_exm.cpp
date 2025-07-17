@@ -31,7 +31,7 @@ void maxEle(T1 x, T2 y)
 
 // CLASS TEMPLATE
 
-template <typename T1>
+template <typename T>
 class classTemp
 {
 
