@@ -75,6 +75,10 @@ class InvoiceDao{
             // logic
         }
 
+        void saveToPDF(){
+            //logics
+        }
+
 };
 
 /*
